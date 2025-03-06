@@ -4,7 +4,7 @@
 
 ## Features
 
-- PHP 8.3
+- PHP 8.4
 - Easy configuration through a customizable `docker.env` file.
 - Pre-defined scripts for building and connecting to your Docker containers.
 - Seamless integration with [phpMyAdmin](https://www.phpmyadmin.net/) for database management.
